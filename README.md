@@ -1,1 +1,1 @@
-# ts-test-course
+# Unit Testing for Typescript & NodeJs Developers with Jest
