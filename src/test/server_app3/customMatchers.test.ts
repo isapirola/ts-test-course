@@ -22,7 +22,7 @@ expect.extend({
 
 interface CustomMatchers<R> {
     toBeValidReservation(): R;
-    toHaveUser(user: string);
+    toHaveUser(user: string): R;
 }
 
 declare global {
